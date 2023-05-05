@@ -11,15 +11,17 @@ X_STYLE = "color: rgb(200, 100, 100);"
 
 O_BTN_STYLE = """
 QPushButton {
-	color: rgb(144, 166, 166);	
-}
+	color: rgb(144, 166, 166);
+    background: rgb(150, 170, 170);
+    }
 QPushButton:enabled {
 	color: rgb(100, 120, 180);
-}
+    }
 """
 X_BTN_STYLE = """
 QPushButton {
-	color: rgb(144, 166, 166);	
+	color: rgb(144, 166, 166);
+    background: none;
 }
 QPushButton:enabled {
 	color: rgb(200, 100, 100);
@@ -76,15 +78,13 @@ def check_answer(ui, ox: str):
         ui.ox_answer.setText(quiz[2])
         ui.ox_quiz.setStyleSheet(globals()[f"{ox}_QUIZ_STYLE"])
         main.delay_time(ui, 200)
-        # utils.playWOW()
+        utils.playWOW()
         print("wow")
         main.delay_time(ui, 2000)
         if quiz[2] == "O":
-            # utils.play_tts("맞았아요~"+quiz[0], kr=quiz[1])
-            print(quiz[0] + ":" + str(quiz[1]))
+            utils.play_tts("맞았아요!"+quiz[0], kr=quiz[1])
         else:
-            # utils.play_tts("맞았어요~"+quiz[3], kr=quiz[1])
-            print(quiz[3] + ":" + str(quiz[1]))
+            utils.play_tts("맞았어요!"+quiz[3], kr=quiz[1])
         main.delay_time(ui, 5000)
 
         ui.ox_answer.setText("")

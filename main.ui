@@ -59,8 +59,8 @@
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -93,8 +93,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -127,8 +127,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -162,8 +162,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -196,8 +196,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -230,8 +230,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -303,7 +303,7 @@ background-color: rgb(75, 125, 130);</string>
        </property>
        <property name="font">
         <font>
-         <family>배달의민족 연성</family>
+         <family>BM YEONSUNG OTF</family>
          <pointsize>72</pointsize>
          <weight>50</weight>
          <italic>false</italic>
@@ -330,6 +330,12 @@ background-color: rgb(75, 125, 130);</string>
         <height>222</height>
        </rect>
       </property>
+      <property name="font">
+       <font>
+        <family>기상청 달콤기후체</family>
+        <pointsize>36</pointsize>
+       </font>
+      </property>
       <layout class="QHBoxLayout" name="menu_1">
        <property name="spacing">
         <number>20</number>
@@ -350,8 +356,8 @@ background-color: rgb(75, 125, 130);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -385,8 +391,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -420,8 +426,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -455,8 +461,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -490,8 +496,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -525,8 +531,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>32</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>36</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -554,7 +560,7 @@ color: rgb(200, 225, 225);</string>
         <x>280</x>
         <y>110</y>
         <width>1601</width>
-        <height>921</height>
+        <height>931</height>
        </rect>
       </property>
       <property name="sizePolicy">
@@ -563,18 +569,23 @@ color: rgb(200, 225, 225);</string>
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <family>HS산토끼체</family>
+       </font>
+      </property>
       <property name="styleSheet">
        <string notr="true">background:transparent;</string>
       </property>
       <property name="currentIndex">
-       <number>12</number>
+       <number>11</number>
       </property>
       <widget class="QWidget" name="numb1">
        <widget class="QWidget" name="horizontalLayoutWidget_3">
         <property name="geometry">
          <rect>
           <x>50</x>
-          <y>150</y>
+          <y>140</y>
           <width>1501</width>
           <height>256</height>
          </rect>
@@ -766,7 +777,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -791,7 +802,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -816,7 +827,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -841,7 +852,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -866,7 +877,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -891,7 +902,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -916,7 +927,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -941,7 +952,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -966,7 +977,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -991,7 +1002,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -1016,7 +1027,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NFM</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>36</pointsize>
             </font>
            </property>
@@ -1107,8 +1118,8 @@ color: rgb(100, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1132,8 +1143,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1157,8 +1168,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1182,8 +1193,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1207,8 +1218,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1232,8 +1243,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1257,8 +1268,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1282,8 +1293,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1307,8 +1318,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1332,8 +1343,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1357,8 +1368,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1382,8 +1393,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1407,8 +1418,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1432,8 +1443,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1457,8 +1468,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1482,8 +1493,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1507,8 +1518,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1532,8 +1543,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1557,8 +1568,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1582,8 +1593,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1607,8 +1618,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1632,8 +1643,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1657,8 +1668,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1682,8 +1693,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1707,8 +1718,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1732,8 +1743,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1757,8 +1768,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1782,8 +1793,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1807,8 +1818,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1832,8 +1843,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1857,8 +1868,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1882,8 +1893,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1907,8 +1918,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1932,8 +1943,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1957,8 +1968,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -1982,8 +1993,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2007,8 +2018,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2032,8 +2043,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2057,8 +2068,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2082,8 +2093,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2107,8 +2118,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2132,8 +2143,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2157,8 +2168,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2182,8 +2193,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2207,8 +2218,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2232,8 +2243,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2257,8 +2268,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2282,8 +2293,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2307,8 +2318,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2332,8 +2343,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2357,8 +2368,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2382,8 +2393,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2407,8 +2418,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2432,8 +2443,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2457,8 +2468,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2482,8 +2493,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2507,8 +2518,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2532,8 +2543,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2557,8 +2568,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2582,8 +2593,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2607,8 +2618,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2632,8 +2643,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2657,8 +2668,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2682,8 +2693,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2707,8 +2718,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2732,8 +2743,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2757,8 +2768,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2782,8 +2793,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2807,8 +2818,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2832,8 +2843,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2857,8 +2868,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2882,8 +2893,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2907,8 +2918,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2932,8 +2943,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2957,8 +2968,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -2982,8 +2993,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3007,8 +3018,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3032,8 +3043,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3057,8 +3068,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3082,8 +3093,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3107,8 +3118,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3132,8 +3143,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3157,8 +3168,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3182,8 +3193,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3207,8 +3218,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3232,8 +3243,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3257,8 +3268,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3282,8 +3293,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3307,8 +3318,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3332,8 +3343,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3357,8 +3368,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3382,8 +3393,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3407,8 +3418,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3432,8 +3443,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3457,8 +3468,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3482,8 +3493,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3507,8 +3518,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3532,8 +3543,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3557,8 +3568,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3582,8 +3593,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3607,8 +3618,8 @@ color: rgb(77, 133, 133);</string>
            </property>
            <property name="font">
             <font>
-             <family>Eras Bold ITC</family>
-             <pointsize>24</pointsize>
+             <family>KOTRA HOPE</family>
+             <pointsize>28</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -3635,8 +3646,10 @@ color: rgb(55, 144, 122);</string>
         </property>
         <property name="font">
          <font>
-          <family>Berlin Sans FB</family>
+          <family>Open Sans SemiBold</family>
           <pointsize>222</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
@@ -3660,10 +3673,10 @@ color: rgb(55, 144, 122);</string>
         </property>
         <property name="font">
          <font>
-          <family>Harrington</family>
-          <pointsize>68</pointsize>
-          <weight>50</weight>
-          <bold>false</bold>
+          <family>LOTTE SEOLLEIM cool OTF</family>
+          <pointsize>58</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
@@ -3680,15 +3693,17 @@ color: rgb(55, 144, 122);</string>
         <property name="geometry">
          <rect>
           <x>20</x>
-          <y>330</y>
+          <y>350</y>
           <width>641</width>
           <height>101</height>
          </rect>
         </property>
         <property name="font">
          <font>
-          <family>배달의민족 연성</family>
+          <family>LOTTE SEOLLEIM cool OTF</family>
           <pointsize>60</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
@@ -3704,41 +3719,19 @@ color: rgb(55, 144, 122);</string>
        <widget class="QWidget" name="gridLayoutWidget_3">
         <property name="geometry">
          <rect>
-          <x>50</x>
-          <y>620</y>
-          <width>581</width>
-          <height>211</height>
+          <x>170</x>
+          <y>610</y>
+          <width>342</width>
+          <height>201</height>
          </rect>
         </property>
         <layout class="QGridLayout" name="numb2_lang">
          <property name="horizontalSpacing">
-          <number>20</number>
+          <number>40</number>
          </property>
          <property name="verticalSpacing">
           <number>0</number>
          </property>
-         <item row="1" column="1">
-          <widget class="QLabel" name="eng_lbl">
-           <property name="sizePolicy">
-            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-             <horstretch>0</horstretch>
-             <verstretch>0</verstretch>
-            </sizepolicy>
-           </property>
-           <property name="font">
-            <font>
-             <family>휴먼모음T</family>
-             <pointsize>18</pointsize>
-            </font>
-           </property>
-           <property name="text">
-            <string>영어 / English</string>
-           </property>
-           <property name="alignment">
-            <set>Qt::AlignCenter</set>
-           </property>
-          </widget>
-         </item>
          <item row="1" column="0">
           <widget class="QLabel" name="kor_lbl">
            <property name="sizePolicy">
@@ -3749,12 +3742,72 @@ color: rgb(55, 144, 122);</string>
            </property>
            <property name="font">
             <font>
-             <family>휴먼모음T</family>
-             <pointsize>18</pointsize>
+             <family>HSGooltokki</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="text">
-            <string>한국어 / Korean</string>
+            <string>한국어</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="1">
+          <widget class="QPushButton" name="numb2_eng">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Expanding">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>150</width>
+             <height>150</height>
+            </size>
+           </property>
+           <property name="autoFillBackground">
+            <bool>false</bool>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">background:transparent;</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resources/numb2/united-states.png</normaloff>resources/numb2/united-states.png</iconset>
+           </property>
+           <property name="iconSize">
+            <size>
+             <width>150</width>
+             <height>150</height>
+            </size>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="1">
+          <widget class="QLabel" name="eng_lbl">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="font">
+            <font>
+             <family>HSGooltokki</family>
+             <pointsize>26</pointsize>
+            </font>
+           </property>
+           <property name="text">
+            <string>English</string>
            </property>
            <property name="alignment">
             <set>Qt::AlignCenter</set>
@@ -3764,16 +3817,28 @@ color: rgb(55, 144, 122);</string>
          <item row="0" column="0">
           <widget class="QPushButton" name="numb2_kor">
            <property name="sizePolicy">
-            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <sizepolicy hsizetype="Fixed" vsizetype="Expanding">
              <horstretch>0</horstretch>
              <verstretch>0</verstretch>
             </sizepolicy>
            </property>
            <property name="minimumSize">
             <size>
-             <width>180</width>
-             <height>180</height>
+             <width>150</width>
+             <height>150</height>
             </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>150</width>
+             <height>999999</height>
+            </size>
+           </property>
+           <property name="autoFillBackground">
+            <bool>false</bool>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">background:transparent;</string>
            </property>
            <property name="text">
             <string/>
@@ -3788,34 +3853,8 @@ color: rgb(55, 144, 122);</string>
              <height>150</height>
             </size>
            </property>
-          </widget>
-         </item>
-         <item row="0" column="1">
-          <widget class="QPushButton" name="numb2_eng">
-           <property name="sizePolicy">
-            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-             <horstretch>0</horstretch>
-             <verstretch>0</verstretch>
-            </sizepolicy>
-           </property>
-           <property name="minimumSize">
-            <size>
-             <width>180</width>
-             <height>180</height>
-            </size>
-           </property>
-           <property name="text">
-            <string/>
-           </property>
-           <property name="icon">
-            <iconset>
-             <normaloff>resources/numb2/united-states.png</normaloff>resources/numb2/united-states.png</iconset>
-           </property>
-           <property name="iconSize">
-            <size>
-             <width>150</width>
-             <height>150</height>
-            </size>
+           <property name="flat">
+            <bool>true</bool>
            </property>
           </widget>
          </item>
@@ -3858,7 +3897,7 @@ color: rgb(55, 144, 122);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -3907,7 +3946,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -3956,7 +3995,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -4005,7 +4044,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -4054,7 +4093,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -4103,7 +4142,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -4152,7 +4191,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -4201,7 +4240,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -4250,7 +4289,7 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>56</pointsize>
             </font>
            </property>
@@ -4308,8 +4347,8 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4339,8 +4378,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4370,8 +4409,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4401,8 +4440,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4432,8 +4471,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4463,8 +4502,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4494,8 +4533,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4525,8 +4564,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4556,8 +4595,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4587,8 +4626,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4618,8 +4657,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4649,8 +4688,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4680,8 +4719,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4711,8 +4750,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4742,8 +4781,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4773,8 +4812,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4804,8 +4843,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4835,8 +4874,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4866,8 +4905,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4897,8 +4936,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4928,8 +4967,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HS산토끼체</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -4980,8 +5019,8 @@ color:rgb(75, 150, 125);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5017,8 +5056,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5054,8 +5093,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5091,8 +5130,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5128,8 +5167,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5165,8 +5204,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5202,8 +5241,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5239,8 +5278,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5276,8 +5315,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5328,8 +5367,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5365,8 +5404,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5402,8 +5441,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5439,8 +5478,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5476,8 +5515,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5513,8 +5552,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5550,8 +5589,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5602,8 +5641,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5639,8 +5678,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5676,8 +5715,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5713,8 +5752,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5750,8 +5789,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5787,8 +5826,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5824,8 +5863,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5861,8 +5900,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5898,8 +5937,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5935,8 +5974,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -5987,8 +6026,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6024,8 +6063,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6061,8 +6100,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6098,8 +6137,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6135,8 +6174,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6172,8 +6211,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6209,8 +6248,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6246,8 +6285,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6283,8 +6322,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6320,8 +6359,8 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
-             <pointsize>28</pointsize>
+             <family>HFGrowing</family>
+             <pointsize>26</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -6357,7 +6396,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>20</pointsize>
             </font>
            </property>
@@ -6404,8 +6443,8 @@ color:rgb(70, 100, 100);</string>
         </property>
         <property name="font">
          <font>
-          <family>Algerian</family>
-          <pointsize>190</pointsize>
+          <family>Jokerman</family>
+          <pointsize>150</pointsize>
           <weight>50</weight>
           <bold>false</bold>
          </font>
@@ -6453,8 +6492,10 @@ color: rgb(50, 125, 100);</string>
         </property>
         <property name="font">
          <font>
-          <family>Mapo홍대프리덤</family>
+          <family>HS산토끼체</family>
           <pointsize>40</pointsize>
+          <weight>50</weight>
+          <bold>false</bold>
          </font>
         </property>
         <property name="styleSheet">
@@ -6507,7 +6548,7 @@ color: rgb(50, 125, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6544,7 +6585,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6581,7 +6622,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6618,7 +6659,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6655,7 +6696,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6692,7 +6733,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6729,7 +6770,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6766,7 +6807,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6803,7 +6844,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6840,7 +6881,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6892,7 +6933,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6929,7 +6970,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -6966,7 +7007,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7003,7 +7044,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7040,7 +7081,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7077,7 +7118,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7114,7 +7155,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7151,7 +7192,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7188,7 +7229,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7225,7 +7266,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7262,7 +7303,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>HS산토끼체</family>
              <pointsize>20</pointsize>
             </font>
            </property>
@@ -7314,7 +7355,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7351,7 +7392,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7388,7 +7429,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7425,7 +7466,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7462,7 +7503,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7499,7 +7540,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7536,7 +7577,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7588,7 +7629,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7625,7 +7666,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7662,7 +7703,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7699,7 +7740,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7736,7 +7777,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7773,7 +7814,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7810,7 +7851,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7847,7 +7888,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7884,7 +7925,7 @@ color:rgb(70, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>HS봄바람체 3.0 Regular</family>
+             <family>HS산토끼체</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -7905,15 +7946,15 @@ color:rgb(70, 100, 100);</string>
         <property name="geometry">
          <rect>
           <x>230</x>
-          <y>440</y>
+          <y>450</y>
           <width>251</width>
           <height>61</height>
          </rect>
         </property>
         <property name="font">
          <font>
-          <family>Ravie</family>
-          <pointsize>36</pointsize>
+          <family>Frogie</family>
+          <pointsize>46</pointsize>
          </font>
         </property>
         <property name="styleSheet">
@@ -7943,7 +7984,7 @@ color:rgb(70, 100, 100);</string>
         </property>
         <property name="font">
          <font>
-          <family>Toy Train</family>
+          <family>EF_Firenze</family>
           <pointsize>72</pointsize>
          </font>
         </property>
@@ -7968,7 +8009,7 @@ Let's play</string>
           <x>540</x>
           <y>470</y>
           <width>844</width>
-          <height>101</height>
+          <height>107</height>
          </rect>
         </property>
         <layout class="QHBoxLayout" name="eng1_spellBox">
@@ -7997,8 +8038,10 @@ Let's play</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8040,8 +8083,10 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8083,8 +8128,10 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8126,8 +8173,10 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8169,8 +8218,10 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8212,8 +8263,10 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8255,8 +8308,10 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8298,8 +8353,10 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8341,8 +8398,10 @@ color: rgb(200, 180, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Impact</family>
+             <family>Iosevka Heavy</family>
              <pointsize>56</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
            </property>
            <property name="styleSheet">
@@ -8393,8 +8452,10 @@ color: rgb(200, 180, 100);</string>
         </property>
         <property name="font">
          <font>
-          <family>안동엄마까투리</family>
+          <family>Iosevka Extrabold</family>
           <pointsize>225</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
@@ -8716,7 +8777,7 @@ color: rgb(170, 150, 75);
         </property>
         <property name="font">
          <font>
-          <family>안동엄마까투리</family>
+          <family>KOTRA HOPE</family>
           <pointsize>100</pointsize>
          </font>
         </property>
@@ -8751,7 +8812,7 @@ color: rgb(170, 150, 75);
           <widget class="QLabel" name="eng2_ansLbl_0">
            <property name="font">
             <font>
-             <family>배달의민족 연성</family>
+             <family>BM YEONSUNG OTF</family>
              <pointsize>30</pointsize>
             </font>
            </property>
@@ -8770,7 +8831,7 @@ color: rgb(170, 150, 75);
           <widget class="QLabel" name="eng2_ansLbl_1">
            <property name="font">
             <font>
-             <family>배달의민족 연성</family>
+             <family>BM YEONSUNG OTF</family>
              <pointsize>30</pointsize>
             </font>
            </property>
@@ -8789,7 +8850,7 @@ color: rgb(170, 150, 75);
           <widget class="QLabel" name="eng2_ansLbl_2">
            <property name="font">
             <font>
-             <family>배달의민족 연성</family>
+             <family>BM YEONSUNG OTF</family>
              <pointsize>30</pointsize>
             </font>
            </property>
@@ -8808,7 +8869,7 @@ color: rgb(170, 150, 75);
           <widget class="QLabel" name="eng2_ansLbl_3">
            <property name="font">
             <font>
-             <family>배달의민족 연성</family>
+             <family>BM YEONSUNG OTF</family>
              <pointsize>30</pointsize>
             </font>
            </property>
@@ -8827,7 +8888,7 @@ color: rgb(170, 150, 75);
           <widget class="QLabel" name="eng2_ansLbl_4">
            <property name="font">
             <font>
-             <family>배달의민족 연성</family>
+             <family>BM YEONSUNG OTF</family>
              <pointsize>30</pointsize>
             </font>
            </property>
@@ -8860,7 +8921,7 @@ color: rgb(170, 150, 75);
           <widget class="QLabel" name="opp_kor_1">
            <property name="font">
             <font>
-             <family>배달의민족 연성</family>
+             <family>HSGooltokki</family>
              <pointsize>70</pointsize>
             </font>
            </property>
@@ -8891,7 +8952,7 @@ color: rgb(170, 150, 75);
            </property>
            <property name="font">
             <font>
-             <family>배달의민족 도현</family>
+             <family>HSGooltokki</family>
              <pointsize>28</pointsize>
             </font>
            </property>
@@ -8910,7 +8971,7 @@ color: rgb(170, 150, 75);
           <widget class="QLabel" name="opp_kor_2">
            <property name="font">
             <font>
-             <family>배달의민족 연성</family>
+             <family>HSGooltokki</family>
              <pointsize>70</pointsize>
             </font>
            </property>
@@ -8938,7 +8999,7 @@ color: rgb(170, 150, 75);
         </property>
         <property name="font">
          <font>
-          <family>배달의민족 연성</family>
+          <family>BM YEONSUNG OTF</family>
           <pointsize>36</pointsize>
          </font>
         </property>
@@ -8963,7 +9024,7 @@ color: rgb(170, 150, 75);
         </property>
         <property name="font">
          <font>
-          <family>배달의민족 연성</family>
+          <family>BM YEONSUNG OTF</family>
           <pointsize>36</pointsize>
          </font>
         </property>
@@ -9033,6 +9094,9 @@ color: rgb(170, 150, 75);
           <width>80</width>
           <height>80</height>
          </size>
+        </property>
+        <property name="flat">
+         <bool>true</bool>
         </property>
        </widget>
        <widget class="QWidget" name="horizontalLayoutWidget_22">
@@ -9211,7 +9275,7 @@ QComboBox QAbstractItemView {
            </property>
            <property name="font">
             <font>
-             <family>안동엄마까투리</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>36</pointsize>
             </font>
            </property>
@@ -9236,7 +9300,7 @@ color: rgb(50, 125, 225);</string>
            </property>
            <property name="font">
             <font>
-             <family>안동엄마까투리</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>36</pointsize>
             </font>
            </property>
@@ -9261,7 +9325,7 @@ color: rgb(180, 80, 80);</string>
            </property>
            <property name="font">
             <font>
-             <family>안동엄마까투리</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>36</pointsize>
             </font>
            </property>
@@ -9286,7 +9350,7 @@ color: rgb(33, 99, 99);</string>
            </property>
            <property name="font">
             <font>
-             <family>안동엄마까투리</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>36</pointsize>
             </font>
            </property>
@@ -9311,7 +9375,7 @@ color: rgb(33, 99, 99);</string>
            </property>
            <property name="font">
             <font>
-             <family>안동엄마까투리</family>
+             <family>KCC-Murukmuruk</family>
              <pointsize>36</pointsize>
             </font>
            </property>
@@ -9339,8 +9403,8 @@ color: rgb(33, 99, 99);</string>
         </property>
         <property name="font">
          <font>
-          <family>배달의민족 연성</family>
-          <pointsize>66</pointsize>
+          <family>HSJiptokki</family>
+          <pointsize>56</pointsize>
           <weight>75</weight>
           <bold>true</bold>
          </font>
@@ -9399,8 +9463,8 @@ color: rgb(33, 99, 99);</string>
            </property>
            <property name="font">
             <font>
-             <family>BM DoHyeon</family>
-             <pointsize>22</pointsize>
+             <family>Iosevka Heavy Oblique</family>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -9560,7 +9624,7 @@ background-color: rgb(75, 150, 150);</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>36</pointsize>
             </font>
            </property>
@@ -9997,7 +10061,7 @@ border-radius:50px;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10025,7 +10089,7 @@ border-bottom-left-radius:50px;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10051,7 +10115,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
              <strikeout>false</strikeout>
             </font>
@@ -10078,7 +10142,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10104,7 +10168,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10146,7 +10210,7 @@ border-bottom-right-radius:50px;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10174,7 +10238,7 @@ border-bottom-left-radius:50px;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10200,7 +10264,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10226,7 +10290,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10252,7 +10316,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10294,7 +10358,7 @@ border-bottom-right-radius:50px;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10322,7 +10386,7 @@ border-bottom-left-radius:50px;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10348,7 +10412,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10374,7 +10438,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10400,7 +10464,7 @@ border-right:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>72</pointsize>
             </font>
            </property>
@@ -10438,7 +10502,7 @@ border-bottom-right-radius:50px;
           <widget class="QLabel" name="ptt0">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>120</pointsize>
             </font>
            </property>
@@ -10460,7 +10524,7 @@ border-right:none;</string>
           <widget class="QLabel" name="ptt1">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>120</pointsize>
             </font>
            </property>
@@ -10482,7 +10546,7 @@ border-right:none;</string>
           <widget class="QLabel" name="ptt2">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>120</pointsize>
             </font>
            </property>
@@ -10504,7 +10568,7 @@ border-right:none;</string>
           <widget class="QLabel" name="ptt3">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>120</pointsize>
             </font>
            </property>
@@ -10526,7 +10590,7 @@ border-right:none;</string>
           <widget class="QLabel" name="ptt4">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>120</pointsize>
             </font>
            </property>
@@ -10548,7 +10612,7 @@ border-right:none;</string>
           <widget class="QLabel" name="ptt5">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>120</pointsize>
             </font>
            </property>
@@ -10570,7 +10634,7 @@ border-right:none;</string>
           <widget class="QLabel" name="pttQ">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>120</pointsize>
             </font>
            </property>
@@ -10612,7 +10676,7 @@ border:3px solid rgb(125,150,100);</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>90</pointsize>
             </font>
            </property>
@@ -10637,7 +10701,7 @@ border-radius:20px;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>90</pointsize>
             </font>
            </property>
@@ -10662,7 +10726,7 @@ border-radius:20px;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>90</pointsize>
             </font>
            </property>
@@ -10687,7 +10751,7 @@ border-radius:20px;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>90</pointsize>
             </font>
            </property>
@@ -10715,7 +10779,7 @@ border-radius:20px;</string>
         </property>
         <property name="font">
          <font>
-          <family>Mapo마포나루</family>
+          <family>EF_jejudoldam</family>
           <pointsize>56</pointsize>
          </font>
         </property>
@@ -10734,7 +10798,7 @@ border-radius:20px;</string>
        <widget class="QWidget" name="gridLayoutWidget_4">
         <property name="geometry">
          <rect>
-          <x>721</x>
+          <x>702</x>
           <y>40</y>
           <width>863</width>
           <height>863</height>
@@ -10766,7 +10830,7 @@ border-radius:20px;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -10803,7 +10867,7 @@ border-right:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -10840,7 +10904,7 @@ border-bottom:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -10877,7 +10941,7 @@ border-top:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -10914,7 +10978,7 @@ border-left:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -10951,7 +11015,7 @@ border-bottom:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -10988,7 +11052,7 @@ border-top:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -11025,7 +11089,7 @@ border-bottom:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -11062,7 +11126,7 @@ border-left:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -11099,7 +11163,7 @@ border-top:none;</string>
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -11137,7 +11201,7 @@ border-left:none;
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -11211,7 +11275,7 @@ border:1px solid rgb(75,125,175);
            </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
@@ -11234,19 +11298,29 @@ border-right:none;</string>
              <verstretch>0</verstretch>
             </sizepolicy>
            </property>
+           <property name="maximumSize">
+            <size>
+             <width>16777215</width>
+             <height>123</height>
+            </size>
+           </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>50</pointsize>
              <italic>false</italic>
             </font>
            </property>
            <property name="styleSheet">
             <string notr="true">color: rgb(60, 80, 120);
-padding-bottom:50px;</string>
+padding-bottom:50px;
+background:none;</string>
            </property>
            <property name="text">
             <string>󰰠󰲟󰰩󰰔</string>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
            </property>
           </widget>
          </item>
@@ -11258,17 +11332,27 @@ padding-bottom:50px;</string>
              <verstretch>0</verstretch>
             </sizepolicy>
            </property>
+           <property name="maximumSize">
+            <size>
+             <width>16777215</width>
+             <height>123</height>
+            </size>
+           </property>
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>66</pointsize>
             </font>
            </property>
            <property name="styleSheet">
-            <string notr="true">color:rgb(180, 120, 140);</string>
+            <string notr="true">color:rgb(180, 120, 140);
+background:none;</string>
            </property>
            <property name="text">
             <string>󰣐</string>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
            </property>
           </widget>
          </item>
@@ -11280,21 +11364,32 @@ padding-bottom:50px;</string>
              <verstretch>0</verstretch>
             </sizepolicy>
            </property>
+           <property name="maximumSize">
+            <size>
+             <width>16777215</width>
+             <height>123</height>
+            </size>
+           </property>
            <property name="font">
             <font>
-             <family>Lucida Sans</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>20</pointsize>
              <weight>75</weight>
              <italic>true</italic>
              <bold>true</bold>
+             <kerning>false</kerning>
             </font>
            </property>
            <property name="styleSheet">
             <string notr="true">color: rgb(75, 125, 200);
-padding-top:80px;</string>
+padding-top:50px;
+background:none;</string>
            </property>
            <property name="text">
             <string>MOMMY and DADDY</string>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
            </property>
           </widget>
          </item>
@@ -11302,7 +11397,7 @@ padding-top:80px;</string>
           <widget class="QLabel" name="dir_star">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>88</pointsize>
             </font>
            </property>
@@ -11339,8 +11434,8 @@ padding-top:80px;</string>
            </property>
            <property name="font">
             <font>
-             <family>배달의민족 도현</family>
-             <pointsize>41</pointsize>
+             <family>CookieRunOTF</family>
+             <pointsize>42</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -11408,7 +11503,7 @@ QPushButton:enabled {
         </property>
         <property name="font">
          <font>
-          <family>배달의민족 연성</family>
+          <family>BM YEONSUNG OTF</family>
           <pointsize>56</pointsize>
           <weight>50</weight>
           <bold>false</bold>
@@ -11472,10 +11567,8 @@ background-color: rgb(150, 175, 220);</string>
         </property>
         <property name="font">
          <font>
-          <family>배달의민족 연성</family>
-          <pointsize>56</pointsize>
-          <weight>50</weight>
-          <bold>false</bold>
+          <family>기상청 달콤기후체</family>
+          <pointsize>42</pointsize>
          </font>
         </property>
         <property name="styleSheet">
@@ -11505,8 +11598,8 @@ background-color: rgb(150, 175, 220);</string>
         </property>
         <property name="font">
          <font>
-          <family>배달의민족 연성</family>
-          <pointsize>66</pointsize>
+          <family>BM DoHyeon OTF</family>
+          <pointsize>60</pointsize>
           <weight>50</weight>
           <bold>false</bold>
          </font>
@@ -11527,7 +11620,7 @@ background-color: rgb(150, 175, 220);</string>
           <x>120</x>
           <y>610</y>
           <width>461</width>
-          <height>151</height>
+          <height>161</height>
          </rect>
         </property>
         <layout class="QHBoxLayout" name="horizontalLayout">
@@ -11535,7 +11628,7 @@ background-color: rgb(150, 175, 220);</string>
           <widget class="QLabel" name="dir_ans1">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>88</pointsize>
             </font>
            </property>
@@ -11554,7 +11647,7 @@ background-color: rgb(150, 175, 220);</string>
           <widget class="QLabel" name="dir_ans0">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>88</pointsize>
             </font>
            </property>
@@ -11573,7 +11666,7 @@ background-color: rgb(150, 175, 220);</string>
           <widget class="QLabel" name="dir_ans2">
            <property name="font">
             <font>
-             <family>Symbols NF</family>
+             <family>Symbols Nerd Font</family>
              <pointsize>88</pointsize>
             </font>
            </property>
@@ -11596,9 +11689,9 @@ background-color: rgb(150, 175, 220);</string>
         <property name="geometry">
          <rect>
           <x>390</x>
-          <y>520</y>
+          <y>480</y>
           <width>821</width>
-          <height>351</height>
+          <height>427</height>
          </rect>
         </property>
         <layout class="QHBoxLayout" name="answerBox">
@@ -11615,20 +11708,33 @@ background-color: rgb(150, 175, 220);</string>
            </property>
            <property name="font">
             <font>
-             <family>고양덕양 EB</family>
-             <pointsize>200</pointsize>
+             <family>Open Sans</family>
+             <pointsize>225</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
+           </property>
+           <property name="autoFillBackground">
+            <bool>false</bool>
            </property>
            <property name="styleSheet">
             <string notr="true">QPushButton {
 	color: rgb(144, 166, 166);	
+	background:none;
+}
+QPushButton:pressed{
+	background:none;
 }
 QPushButton:enabled {
 	color: rgb(100, 120, 180);
+	background:none;
 }</string>
            </property>
            <property name="text">
             <string>O</string>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
            </property>
           </widget>
          </item>
@@ -11642,20 +11748,30 @@ QPushButton:enabled {
            </property>
            <property name="font">
             <font>
-             <family>고양덕양 EB</family>
-             <pointsize>200</pointsize>
+             <family>Open Sans</family>
+             <pointsize>225</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
             </font>
+           </property>
+           <property name="autoFillBackground">
+            <bool>false</bool>
            </property>
            <property name="styleSheet">
             <string notr="true">QPushButton {
 	color: rgb(144, 166, 166);	
+	background:transparent;
 }
 QPushButton:enabled {
 	color: rgb(200, 100, 100);
+	background:tansparent;
 }</string>
            </property>
            <property name="text">
             <string>X</string>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
            </property>
           </widget>
          </item>
@@ -11665,15 +11781,15 @@ QPushButton:enabled {
         <property name="geometry">
          <rect>
           <x>80</x>
-          <y>100</y>
+          <y>110</y>
           <width>1441</width>
           <height>211</height>
          </rect>
         </property>
         <property name="font">
          <font>
-          <family>안동엄마까투리OTF</family>
-          <pointsize>72</pointsize>
+          <family>EF_jejudoldam</family>
+          <pointsize>48</pointsize>
          </font>
         </property>
         <property name="styleSheet">
@@ -11690,19 +11806,22 @@ QPushButton:enabled {
         <property name="geometry">
          <rect>
           <x>600</x>
-          <y>40</y>
+          <y>0</y>
           <width>400</width>
           <height>421</height>
          </rect>
         </property>
         <property name="font">
          <font>
-          <family>고양덕양 EB</family>
-          <pointsize>300</pointsize>
+          <family>OA Gothic</family>
+          <pointsize>280</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
-         <string notr="true">color: rgb(100, 120, 180);
+         <string notr="true">background:transparent;
+color: rgb(100, 120, 180);
 color: rgb(200, 100, 100);</string>
         </property>
         <property name="text">
@@ -11744,8 +11863,8 @@ color: rgb(200, 100, 100);</string>
            </property>
            <property name="font">
             <font>
-             <family>안동엄마까투리</family>
-             <pointsize>33</pointsize>
+             <family>EF_Firenze</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -11788,8 +11907,8 @@ QPushButton:enabled {
            </property>
            <property name="font">
             <font>
-             <family>안동엄마까투리</family>
-             <pointsize>33</pointsize>
+             <family>EF_Firenze</family>
+             <pointsize>32</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -12631,8 +12750,8 @@ border-left:1px solid gray;</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12656,8 +12775,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12681,8 +12800,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12706,8 +12825,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12731,8 +12850,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12756,8 +12875,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12781,8 +12900,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12806,8 +12925,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12831,8 +12950,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12856,8 +12975,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12881,8 +13000,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12906,8 +13025,8 @@ color: rgb(200, 225, 225);</string>
          </property>
          <property name="font">
           <font>
-           <family>안동엄마까투리</family>
-           <pointsize>24</pointsize>
+           <family>기상청 달콤기후체</family>
+           <pointsize>26</pointsize>
           </font>
          </property>
          <property name="styleSheet">
@@ -12954,8 +13073,8 @@ background: rgb(150, 170, 170);
       </property>
       <property name="font">
        <font>
-        <family>야놀자 야체 B</family>
-        <pointsize>52</pointsize>
+        <family>LOTTE SEOLLEIM cool OTF</family>
+        <pointsize>36</pointsize>
         <weight>75</weight>
         <bold>true</bold>
        </font>
@@ -12985,7 +13104,7 @@ color: rgb(200, 190, 145);</string>
       </property>
       <property name="font">
        <font>
-        <family>배달의민족 연성</family>
+        <family>BM YEONSUNG OTF</family>
         <pointsize>32</pointsize>
         <weight>50</weight>
         <bold>false</bold>

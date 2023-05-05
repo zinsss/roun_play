@@ -68,7 +68,8 @@ def check_answer(ui, btn_index):
         main.delay_time(ui, 100)
         utils.playWOW()
         main.delay_time(ui, 3000)
-        utils.play_MP3("resources/eng2/mp3/" + btn_words[quiz_index] + ".mp3")
+        mp3filename = btn_words[quiz_index].replace(" ", "_")
+        utils.play_MP3("resources/eng2/mp3/" + mp3filename + ".mp3")
         main.delay_time(ui, 1000)
         new_game(ui)
     else:
