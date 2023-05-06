@@ -55,7 +55,8 @@ QUESTIONS = [
     ["오도리집에는 2층 침대가 있어요.", True, "O", ""],
     ["기도가 끝나면 히멘이라고 말해요.", True, "X", "아멘이라고 말해요."],
     ["루돌프 사슴코는 노란색이에요.", True, "X", "매우 반짝이는 빨간코에요"],
-    ["큰아빠집에 가면 강아지 쪼코가 있어요.", True, "O", ""], 
+    ["큰아빠집에 가면 강아지 쪼코가 있어요.", True, "O", ""],
+    ["아빠 차는 엄마 차보다 커요.", True, "X", "엄마 차가 더 커요."]
 ]
 
 quiz = []
@@ -95,9 +96,9 @@ def check_answer(ui, ox: str):
         print("wow")
         main.delay_time(ui, 2000)
         if quiz[2] == "O":
-            utils.play_tts("맞았아요!"+quiz[0], kr=quiz[1])
+            utils.play_tts("네!"+quiz[0], kr=quiz[1])
         else:
-            utils.play_tts("맞았어요!"+quiz[3], kr=quiz[1])
+            utils.play_tts("아니오!"+quiz[3], kr=quiz[1])
         main.delay_time(ui, 5000)
 
         ui.ox_answer.setText("")

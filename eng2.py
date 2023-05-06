@@ -32,9 +32,12 @@ def new_game(ui):
     files = os.listdir("resources/eng2")
     words = []
     for file in files:
-        word_temp = file.replace(".jpg", "")
-        word = word_temp.replace("_", " ")
-        words.append(word)
+        if file != 'mp3':
+            word_temp = file.replace(".jpg", "")
+            word = word_temp.replace("_", " ")
+            words.append(word)
+        else:
+            pass 
 
     global btn_words, quiz_index
     btn_words = random.sample(words, 5)
