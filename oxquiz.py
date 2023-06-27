@@ -33,7 +33,7 @@ QUESTIONS = [
     ["엄마 이름은 차영.", True, "O", ""],
     ["엄마 차 파란색.", True, "O", ""],
     ["만촌동에 할머니 할아버지가 있어요.", True, "O", ""],
-    ["아빠 이름은 이준성.", True, "X", "아빠 이름은 이진성이에요."],
+    ["아빠 이름은 이준성.", True, "X", "아빠 이름은 이진성이에요.."],
     ["1은 영어로 two.", True, "X", "1은 영어로 원.이에요."],
     ["아빠 차는 LEXUS", True, "X", "아빠 차는 미니에요."],
     ["로운이는 포항제일유치원을 다녀요.", True, "O", ""],
@@ -43,20 +43,19 @@ QUESTIONS = [
     ["유치원 선생님 이름은 이유리.", True, "O", ""],
     ["사과는 보라색이에요.", True, "X", "사과는 빨간색이에요."],
     ["Two plus one equals, five.", False, "X", "Two plus one equals three."],
-    ["만촌동 할머니집은 8층이에요", True, "X", "만촌동 할머니집은 15층이에요"],
-    ["이모 이름은 김지혜.", True, "O", ""],
-    ["로운이는 경선어린이집을 다녔어요.", True, "O", ""],
+    ["이모 이름은 김지혜", True, "O", ""],
+    ["로운이는 경선어린이집에 다녔어요.", True, "O", ""],
+    ["할아버지 이름은 차두리", True, "X", "할아버지 이름은 차홍대에요."],
     ["율이 누나는 서울에 살아요.", True, "O", ""],
-    ["로운이 집은 103동 1205호에요.", True, "X", "103동 1505호에요."],
-    ["사과는 빨간색이에요.", True, "O", ""],
-    ["해안로1774번길 51번지에는 오도리집이 있어요.", True, "O", ""],
-    ["아빠 직업은 경찰이에요.", True, "X", "아빠는 의사에요."],
-    ["엄마는 머리가 길어요.", True, "O", ""],
-    ["오도리집에는 2층 침대가 있어요.", True, "O", ""],
-    ["기도가 끝나면 히멘이라고 말해요.", True, "X", "아멘이라고 말해요."],
-    ["루돌프 사슴코는 노란색이에요.", True, "X", "매우 반짝이는 빨간코에요"],
-    ["큰아빠집에 가면 강아지 쪼코가 있어요.", True, "O", ""],
-    ["아빠 차는 엄마 차보다 커요.", True, "X", "엄마 차가 더 커요."]
+    ["아빠 차는 빨간색이에요.", True, "X", "아빠 차는 회색이에요."],
+    ["사과는 빨간색.", True, "O", ""],
+    ["Air My Fun은 재미있어요.", True, "O", ""],
+    ["1 더하기 2는 3이에요.", True, "O", ""], 
+    ["로운이 방에는 책상이 있어요.", True, "X", "로운이 방에 책상은 없어요."],
+    ["로운이는 포항제일유치원 우주반이에요.", True, "X", "혜성반이에요!!"],
+    ["기도 마지막에는 아멘.이라고 말해요", True, "O", ""],
+    ["기도할때는 시끄럽게 놀아도 되요", True, "X", "기도할땐 조용히."],
+    ["Five is bigger than seven.", False, "X", "Five is smaller than seven."]
 ]
 
 quiz = []
@@ -96,9 +95,13 @@ def check_answer(ui, ox: str):
         print("wow")
         main.delay_time(ui, 2000)
         if quiz[2] == "O":
-            utils.play_tts("네!"+quiz[0], kr=quiz[1])
+            if quiz[1]:
+                utils.play_tts("네!"+quiz[0], kr=quiz[1])
+            else: utils.play_tts("Yes" + quiz[0], kr=quiz[1])
         else:
-            utils.play_tts("아니오!"+quiz[3], kr=quiz[1])
+            if quiz[1]:
+                utils.play_tts("아니오!"+quiz[3], kr=quiz[1])
+            else: utils.play_tts("No," + quiz[3], kr=quiz[1])
         main.delay_time(ui, 5000)
 
         ui.ox_answer.setText("")
